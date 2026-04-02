@@ -19,8 +19,8 @@ MikroTik Chateau 5G R17 ax — configuration version history.
 ### Wi-Fi
 | Interface | Radio | SSID | Network |
 |-----------|-------|------|---------|
-| `wifi1` / `wifi10` | 5 GHz / 2.4 GHz | `Headfirst2-Tattoo-Subtly` | Main LAN |
-| `wifi2` / `wifi20` | 5 GHz / 2.4 GHz | `Nutm#g-Subs1d1ng5-Septum!` | Diver (IoT/guest) |
+| `wifi1` / `wifi10` | 5 GHz / 2.4 GHz | `audiopro` | Main LAN |
+| `wifi2` / `wifi20` | 5 GHz / 2.4 GHz | `diver` | Diver (IoT/guest) |
 
 ### Firewall Highlights
 - Standard `defconf` input/forward/srcnat chains
